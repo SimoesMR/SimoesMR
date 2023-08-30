@@ -3,9 +3,6 @@
 ###
 
 <h2 align="left">About Me</h2>
-
-###
-
 <p align="left">
   <br>
   ✨ Full stack developer with 4 years of experience, specializing in C# (.Net), SQL Server, HTML, CSS, JS, and React.
