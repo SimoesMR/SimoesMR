@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is Rodrigo, and I'm a full-stack developer from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Rodrigo, and I'm a full-stack developer</h2>
 
 ###
 
 <h2 align="left">About Me</h2>
 <p align="left">
   <br>
-  ✨ Full stack developer with 5 years of experience, specializing in C# (.Net), SQL Server, HTML, CSS, JS, and React.
+  ✨ Full stack developer with more than 5 years of experience, specializing in C# (.Net), SQL Server, HTML, CSS, JS, and React.
   <br>
   🎯 Proficient in building web applications following best practices such as SOLID and Design Patterns, within an agile team.
   <br>
