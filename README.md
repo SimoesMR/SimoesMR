@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋! My name is Rodrigo, and I'm a full-stack developer</h1>
 
-###
-
 <h2 align="left">About Me</h2>
 <p align="left">
   <br>
